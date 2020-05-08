@@ -1,0 +1,4 @@
+r=float(input("Enter raduis: "))
+l=float(input("Enter length: "))
+csa=3.14156*r*l
+print("The curved surface area of cone is ",csa)
